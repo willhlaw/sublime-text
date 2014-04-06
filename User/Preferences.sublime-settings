@@ -1,0 +1,15 @@
+{
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"deprecated",
+		"node_modules"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"jshint_options" :
+	{
+		"predef":   [
+			"$",
+			"jQuery",
+			"map",
+			"page",
+			"google",
+			"sidePanel",
+			"markers",
+			"datamanager"
+		]
+	}
+}
